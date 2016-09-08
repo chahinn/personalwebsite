@@ -3,3 +3,5 @@ Link to website : www.nicolasechahin.com
 The website includes the use of a scrollspy in the startup and resume page, database to store messages in the contact page, slider in the testimonials page and was built using ruby on rails.
 
 The app uses jQuery libraries.
+
+-Nicolas Chahin
